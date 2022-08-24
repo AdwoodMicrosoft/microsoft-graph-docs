@@ -15,6 +15,8 @@ ms.topic: include
 | AccessReview.ReadWrite.All                              | Delegated   | e4aa47b9-9a69-4109-82ed-36ec70d85ff1 |
 | AccessReview.ReadWrite.Membership                       | Application | 18228521-a591-40f1-b215-5fad4488c117 |
 | AccessReview.ReadWrite.Membership                       | Delegated   | 5af8c3f5-baca-439a-97b0-ea58a435e269 |
+| Acronym.Read.All                                        | Application | ************************************ |
+| Acronym.Read.All                                        | Delegated   | ************************************ |
 | AdministrativeUnit.Read.All                             | Application | 134fd756-38ce-4afd-ba33-e9623dbe66c2 |
 | AdministrativeUnit.Read.All                             | Delegated   | 3361d15d-be43-4de6-b441-3c746d05163d |
 | AdministrativeUnit.ReadWrite.All                        | Application | 5eb59dd3-1da2-4329-8733-9dabdc435916 |
@@ -61,6 +63,8 @@ ms.topic: include
 | Bookings.ReadWrite.All                                  | Delegated   | 948eb538-f19d-4ec5-9ccc-f059e1ea4c72 |
 | BookingsAppointment.ReadWrite.All                       | Application | 9769393e-5a9f-4302-9e3d-7e018ecb64a7 |
 | BookingsAppointment.ReadWrite.All                       | Delegated   | 02a5a114-36a6-46ff-a102-954d89d9ab02 |
+| Bookmark.Read.All                                       | Application | ************************************ |
+| Bookmark.Read.All                                       | Delegated   | ************************************ |
 | Calendars.Read                                          | Application | 798ee544-9d2d-430c-a058-570e29e34338 |
 | Calendars.Read                                          | Delegated   | 465a38f9-76ea-45b9-9f34-9e8b0d4b0b42 |
 | Calendars.Read.Shared                                   | Delegated   | 2b9c4092-424d-4249-948d-b43879977640 |
