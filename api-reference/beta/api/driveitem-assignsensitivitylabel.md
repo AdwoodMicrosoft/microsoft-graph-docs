@@ -1,6 +1,6 @@
 ---
 title: "driveItem: assignSensitivityLabel"
-description: "Asynchronously assigns sensitivity label to a driveItem."
+description: "Asynchronously assigns sensitivity label to a file"
 author: "jaLuthra"
 ms.localizationpriority: medium
 ms.prod: "sharepoint"
@@ -12,7 +12,7 @@ Namespace: microsoft.graph
 
 [!INCLUDE [beta-disclaimer](../../includes/beta-disclaimer.md)]
 
-Asynchronously assigns sensitivity label to a [driveItem][item-resource].
+Asynchronously assigns sensitivity label to a file [driveItem][item-resource]. This API is in Private Preview and offers premium functionality subject to monetization, please read https://aka.ms/SPOPremiumApis for details and instructions on how to enroll in the Private Preview. 
 
 ## Permissions
 One of the following permissions is required to call this API. To learn more, including how to choose permissions, see [Permissions](/graph/permissions-reference).
