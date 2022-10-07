@@ -298,6 +298,8 @@ items:
             displayName: files, OneDrive, OneDrive for Business, OneDrive business, OneDrive personal, SharePoint
           - name: Addressing drive items
             href: onedrive-addressing-driveitems.md
+          - name: Licensing-and-payment-models
+            href: onedrive-sharePoint-payment-overview.md
       - name: Financials (preview)
         href: dynamics-business-central-concept-overview.md
         displayName: Dynamics, Dynamics 365 Business Central
