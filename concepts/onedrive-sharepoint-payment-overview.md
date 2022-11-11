@@ -1,3 +1,11 @@
+---
+title: "Payment requirements for the OneDrive and SharePoint APIs"
+description: "Learn about the licensing and payment requirements for the SharePoint and OneDrive APIs in Microsoft Graph.."
+ms.localizationpriority: high
+author: AdwoodMicrosoft
+ms.prod: "sites-and-lists"
+---
+
 # Payment requirements for the OneDrive and SharePoint APIs
 
 This article describes the licensing and payment requirements for the SharePoint and OneDrive APIs in Microsoft Graph.
